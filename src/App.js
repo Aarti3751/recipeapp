@@ -102,7 +102,7 @@ const App = () => {
       <Router>
         <div className="app fade-in">
           <Navbar bg="dark" variant="dark" expand="lg" className="mb-4">
-            <Navbar.Brand href="/">Recipe Finder</Navbar.Brand>
+            <Navbar.Brand href="/">FindFlavors</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between">
               <div className="mx-auto search-bar">
