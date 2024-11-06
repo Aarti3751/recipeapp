@@ -12,7 +12,7 @@ const Footer = () => {
         <Row className="footer-content">
           <Col className="text-center">
             <div className="footer-logo">
-              <h2>Recipe Finder</h2>
+              <h2>FindFlavors</h2>
             </div>
             <ul className="footer-links list-inline">
               <li className="list-inline-item">
